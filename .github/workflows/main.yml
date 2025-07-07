@@ -15,7 +15,7 @@ jobs:
       - name: Run a one-line script
         run: echo hello, world!'
 
-      - name: running a custom script
+      - name: running a custom script here
         run: |
           ls -al
 
